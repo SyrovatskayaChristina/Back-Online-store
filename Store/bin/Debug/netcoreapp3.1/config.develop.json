@@ -1,0 +1,3 @@
+{
+	"DBConnectionString": "Data Source=(local);Initial Catalog=SQL-HW;Integrated Security = True;"
+}

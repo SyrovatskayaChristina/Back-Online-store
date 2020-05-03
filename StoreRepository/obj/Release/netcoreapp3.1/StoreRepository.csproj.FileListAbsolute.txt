@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Store\StoreRepository\bin\Release\netcoreapp3.1\StoreRepository.deps.json
+C:\Users\User\source\repos\Store\StoreRepository\bin\Release\netcoreapp3.1\StoreRepository.dll
+C:\Users\User\source\repos\Store\StoreRepository\bin\Release\netcoreapp3.1\StoreRepository.pdb
+C:\Users\User\source\repos\Store\StoreRepository\bin\Release\netcoreapp3.1\Store.Core.dll
+C:\Users\User\source\repos\Store\StoreRepository\bin\Release\netcoreapp3.1\Store.DB.dll
+C:\Users\User\source\repos\Store\StoreRepository\bin\Release\netcoreapp3.1\Store.DB.pdb
+C:\Users\User\source\repos\Store\StoreRepository\bin\Release\netcoreapp3.1\Store.Core.pdb
+C:\Users\User\source\repos\Store\StoreRepository\obj\Release\netcoreapp3.1\StoreRepository.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Store\StoreRepository\obj\Release\netcoreapp3.1\StoreRepository.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Store\StoreRepository\obj\Release\netcoreapp3.1\StoreRepository.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Store\StoreRepository\obj\Release\netcoreapp3.1\StoreRepository.AssemblyInfo.cs
+C:\Users\User\source\repos\Store\StoreRepository\obj\Release\netcoreapp3.1\StoreRepository.csproj.CopyComplete
+C:\Users\User\source\repos\Store\StoreRepository\obj\Release\netcoreapp3.1\StoreRepository.dll
+C:\Users\User\source\repos\Store\StoreRepository\obj\Release\netcoreapp3.1\StoreRepository.pdb
